@@ -1,0 +1,6 @@
+{
+  "name": "A.A Properties Kano - Real Estate",
+  "description": "Full-Stack Real Estate platform for A.A Properties Kano by Adam Auwal Adam. Rent, Buy and Sell Houses, Land, Shops and Commercial Properties in Kano with Verified Documents and Free Inspections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
