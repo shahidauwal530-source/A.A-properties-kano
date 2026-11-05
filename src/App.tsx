@@ -19,6 +19,7 @@ import { UserDashboard } from './components/UserDashboard.tsx';
 import { AdminDashboard } from './components/AdminDashboard.tsx';
 import { AboutSection } from './components/AboutSection.tsx';
 import { Footer } from './components/Footer.tsx';
+import ChatBot from './ChatBot.jsx';
 import {
   Filter,
   SlidersHorizontal,
@@ -341,6 +342,9 @@ function MainApp() {
       />
 
       <AuthModal />
+
+      {/* Floating Offline AI ChatBot */}
+      <ChatBot />
     </div>
   );
 }
